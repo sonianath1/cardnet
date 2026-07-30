@@ -17,9 +17,9 @@ Final project for CS 441/541: Artificial Intelligence (Summer 2026)
 
 ## Description
 
-For our final AI project, we use two popular computer vision architectures — Residual Network (ResNet) and EfficientNet — to train two image classification models capable of correctly identifying playing cards. Model performance is measured primarily via accuracy and precision on a held-out test set.
+For our final AI project, we will use two popular computer vision architectures Residual net(ResNet) and EfficientNet. The goal is to train two image classification models that will be able to classify cards correctly. Performance measurement will be based on accuracy and precision during the test stage. 
 
-Both ResNet and EfficientNet represent key advances in training very deep neural networks efficiently, enabling machine learning systems to automate tasks like image classification and pattern recognition on large image datasets.
+ResNet and EfficientNet have allowed for advancement in efficient training and resource management in very deep neural networks.  The efficient training on images these architecture offers,  allows for machine learning to automate tasks like image classification and pattern identification in larger image dataset. 
 
 ### ResNet-50
 
