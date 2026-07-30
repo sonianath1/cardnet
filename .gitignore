@@ -1,0 +1,4 @@
+# data & model artifacts
+data/
+*.h5
+*.zip
